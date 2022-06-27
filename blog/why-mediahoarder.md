@@ -1,13 +1,15 @@
+# Why Media Hoarder? (2022-06-27)
+
 To answer this question, I have to rewind back to _2019-09-09_, almost **3 years** before the writing of this blog post and the first release of **Media Hoarder**.
 
 And yes, this question is very legitimate, because back then the world already had quite a number of media center apps available. Some examples being [XBMC aka Kodi](https://kodi.tv/), [Plex](https://www.plex.tv/) or [Jellyfin](https://jellyfin.org/).
 
-At that time I had the following set up:
+At that time I had the following setup:
 
-- an HTPC with some storage
+- an HTPC with some local storage
 - a large file server with lots of additional storage
 
-In order to save electricity, the file server was never running 24/7. So I had a "cache" of anticipated media for the upcoming time as well as the latest media on the HTPC. If necessary, the NAS is powered on and either
+In order to save electricity, the file server was never running 24/7. So I had a "cache" of anticipated media for the upcoming time as well as the latest media on the HTPC. If necessary, the file server is powered on and either
 
 - the cache on the HTPC is going to be refilled
 - or the media is directly accessed on the NAS while it was running
@@ -47,12 +49,12 @@ I personally hate screen changes, e.g. you have a list of media, you click/selec
 
 Every streaming service implements this shit. Their intention is not for you to have a good overview of available media. So yeah, fuck this.
 
-KILLME: image
-
-![Media Hoarder Logo](why-mediahoarder-logo.png "Image Title")
-
 #### REQUIREMENT 4: Tell the user if automatic meta data retrieval possibly had issues and provide easy access for remediation.
 
 In most cases the available media center apps find the correct meta data for a medium. However, in cases where they do not, they lack in transparency (i.e. they don't tell you about possible inconsistencies) and don't provide an easy access to manually correct the meta data (i.e. let you point to the correct movie in imdb, tmdb or whatever).
 
 This really, really troubled me, because I wanted to clean up some mess, the apps were piling up automatically but I couldn't, at least not easily.
+
+## Conclusion
+
+Take a bit of pain and a whole lot of enthusiasm and eventually a new media center app is born :)
