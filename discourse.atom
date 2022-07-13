@@ -3,8 +3,8 @@
 
   <title>Media Hoarder Blog Posts</title>
   <link href="https://media.hoarder.software/blog/"/>
-  <updated>2022-07-13T09:41:06.103Z</updated>
-  <id>urn:uuid:04ce129a-be79-4969-8616-3fded72a7d9d</id>
+  <updated>2022-07-13T09:43:13.482Z</updated>
+  <id>urn:uuid:8a3b448b-118f-4828-bb6d-af25f7ad4bb5</id>
 
   <entry>
     <title>A New Blogpost</title>
@@ -12,7 +12,7 @@
       <name>Jörg 'MK2k' Sonntag</name>
     </author>
     <link href="https://media.hoarder.software/blog/a-new-blogpost"/>
-    <id>urn:uuid:9bc1ab2c-fc98-4744-b32b-861cfe97c7af</id>
+    <id>urn:uuid:847f6198-19bf-41e1-9de5-67b0b1aeba43</id>
     <published>2022-07-13T00:00:00Z</published>
     <updated>2022-07-13T00:00:00Z</updated>
     <summary>A test blog post to verify the deployment strategy.</summary>
@@ -24,7 +24,7 @@
       <name>Jörg 'MK2k' Sonntag</name>
     </author>
     <link href="https://media.hoarder.software/blog/why-media-hoarder"/>
-    <id>urn:uuid:615e831d-3c2e-4492-8fe8-f5bc850d7ba4</id>
+    <id>urn:uuid:80697ddb-80c4-47a4-b5f0-116fdf8e37a9</id>
     <published>2022-07-13T00:00:00Z</published>
     <updated>2022-07-13T00:00:00Z</updated>
     <summary>Join me in a discussion about the motivation behind creating a new media center app.</summary>
