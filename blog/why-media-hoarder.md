@@ -1,4 +1,4 @@
-# Why Media Hoarder? (2022-06-27)
+# Why Media Hoarder? (2022-07-13)
 
 To answer this question, I have to rewind back to _2019-09-09_, almost **3 years** before the writing of this blog post and the first release of **Media Hoarder**.
 
