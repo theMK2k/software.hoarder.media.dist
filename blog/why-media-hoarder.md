@@ -22,6 +22,10 @@ This requirement quickly fell short with the available media center apps.
 
 I started to use one Kodi instance, added the remote source and the local one. Did a scan, the media was added. At one point I added more media to the local source but had the remote source turned off, so the rescan ended up having all the remote media removed from the app.
 
+1. a
+2. b
+3. c
+
 I tried to convince myself to use two portable Kodi instances:
 
 - one instance for the local data
