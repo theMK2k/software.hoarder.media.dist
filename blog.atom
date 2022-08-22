@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Media Hoarder Blog Posts</title>
+  <link href="https://media.hoarder.software/blog/"/>
+  <updated>2022-08-22T20:03:23.843Z</updated>
+  <id>urn:uuid:c2ca6b09-66e6-4332-a6cf-20ddc0c3df52</id>
+
+  <entry>
+    <title>Why Media Hoarder?</title>
+    <author>
+      <name>Jörg 'MK2k' Sonntag</name>
+    </author>
+    <link href="https://media.hoarder.software/blog/why-media-hoarder"/>
+    <id>urn:uuid:c9a431b2-b0e2-4e05-9ec2-f6781d96e757</id>
+    <published>2022-06-27T00:00:00Z</published>
+    <updated>2022-06-27T00:00:00Z</updated>
+    <summary>Join me in a discussion about the motivation behind creating a new media center app.</summary>
+  </entry>
+
+</feed>
