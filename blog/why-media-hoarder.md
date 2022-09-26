@@ -1,4 +1,4 @@
-# Why Media Hoarder? (2022-09-22)
+# Why Media Hoarder? (2022-09-23)
 
 To answer this question, I have to rewind back to _2019-09-09_, **3 years** before the writing of this blog post.
 
