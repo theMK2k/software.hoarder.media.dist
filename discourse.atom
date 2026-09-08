@@ -3,8 +3,8 @@
 
   <title>Media Hoarder Blog Posts</title>
   <link href="https://media.hoarder.software/blog/"/>
-  <updated>2026-09-08T16:24:42.917Z</updated>
-  <id>urn:uuid:77f733a8-816c-47f8-8f74-8fdd8fb51af2</id>
+  <updated>2026-09-08T16:30:27.257Z</updated>
+  <id>urn:uuid:5aa432de-106a-4ef9-b028-faadfd30267f</id>
 
   <entry>
     <title>2nd Birthday - TV Series Support</title>
@@ -12,7 +12,7 @@
       <name>Jörg 'MK2k' Sonntag</name>
     </author>
     <link href="https://media.hoarder.software/blog/2nd-birthday-tv-series-support"/>
-    <id>urn:uuid:cb1b02aa-6ffb-45c9-a13c-fb4640d9b5e8</id>
+    <id>urn:uuid:9c7d808e-16fe-46c8-bf63-dc7b1a403422</id>
     <published>2024-09-23T00:00:00Z</published>
     <updated>2024-09-23T00:00:00Z</updated>
     <summary>It's the 2nd birthday of Media Hoarder and a good time to introduce TV series support.</summary>
@@ -24,7 +24,7 @@
       <name>Jörg 'MK2k' Sonntag</name>
     </author>
     <link href="https://media.hoarder.software/blog/ai-recommendations-with-chatgpt"/>
-    <id>urn:uuid:307a8770-2ed8-44ac-bf51-0f0881d8c617</id>
+    <id>urn:uuid:6347b4cd-5c25-4181-8a38-84398c60a114</id>
     <published>2022-12-29T00:00:00Z</published>
     <updated>2022-12-29T00:00:00Z</updated>
     <summary>ChatGPT - a stunning artificial intelligence chatbot knows one or two things about movies, it's time to harness this technology ;)</summary>
@@ -36,7 +36,7 @@
       <name>Jörg 'MK2k' Sonntag</name>
     </author>
     <link href="https://media.hoarder.software/blog/why-media-hoarder"/>
-    <id>urn:uuid:1e1b7be0-0e23-4552-9c78-6d0ace96bad0</id>
+    <id>urn:uuid:4a5623df-5eec-4b1b-a472-17462ab4a5c5</id>
     <published>2022-09-23T00:00:00Z</published>
     <updated>2022-09-23T00:00:00Z</updated>
     <summary>Join me in a discussion about the motivation behind creating a new media center app.</summary>
